@@ -2,7 +2,7 @@
 
 Merhaba! 👋  
 MedicalAIChatBot, tıbbi dokümanlardan bilgi çekebilen ve kullanıcı sorularına yapay zeka ile yanıt verebilen bir chatbot uygulamasıdır.  
-Bu projede **Flask**, **LangChain**, **Pinecone**, **Google Gemini API**, **AWS** ve **Docker** gibi modern teknolojiler kullanılmıştır! 🚀
+Bu projede **Flask**, **LangChain**, **Pinecone**, **Google Gemini API**, **AWS** ve **Docker** gibi modern teknolojiler kullanılmıştır! 
 
 ---
 
