@@ -93,7 +93,7 @@ Bu proje MIT lisansı ile lisanslanmıştır.
 
 ---
 
-**Hazırlayan:** Samet DURAN  
+**Hazırlayan:** Samet D. 
 **İletişim:** asametdurann@gmail.com
 
 ---
